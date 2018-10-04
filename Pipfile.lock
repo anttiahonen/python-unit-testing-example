@@ -1,0 +1,71 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "974f779f8db63d890995afee69853366967dd775dd96c60a6d154d1507e21337"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.2",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "4.4.0-134-generic",
+            "platform_system": "Linux",
+            "platform_version": "#160-Ubuntu SMP Wed Aug 15 14:58:00 UTC 2018",
+            "python_full_version": "3.6.2",
+            "python_version": "3.6",
+            "sys_platform": "linux"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "atomicwrites": {
+            "hashes": [],
+            "version": "==1.2.1"
+        },
+        "attrs": {
+            "hashes": [],
+            "version": "==18.2.0"
+        },
+        "more-itertools": {
+            "hashes": [],
+            "version": "==4.3.0"
+        },
+        "pathlib2": {
+            "hashes": [],
+            "markers": "python_version < '3.6'",
+            "version": "==2.3.2"
+        },
+        "pluggy": {
+            "hashes": [],
+            "version": "==0.7.1"
+        },
+        "py": {
+            "hashes": [],
+            "version": "==1.6.0"
+        },
+        "pytest": {
+            "hashes": [],
+            "version": "==3.8.2"
+        },
+        "python-dateutil": {
+            "hashes": [],
+            "version": "==2.6.1"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        }
+    },
+    "develop": {}
+}
