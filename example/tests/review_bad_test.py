@@ -4,7 +4,7 @@ from ..address import Address
 from ..user import User
 from ..review import Review
 
-class TestReview(object):
+class TestReviewBad(object):
 
     def test_review_init_valid(self):
         user = User("basic user",Address("Konemiehentie 1", "Espoo"))
@@ -51,15 +51,3 @@ class TestReview(object):
             review = Review(1, "The review", "It sucked!", user)
 
         assert "Homeless people are not allowed to review!" in str(error_info.value)
-
-
-
-
-
-
-
-
-
-
-
-
