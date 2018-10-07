@@ -3,7 +3,7 @@ import pytest
 from ..address import Address
 from ..user import User
 from ..review import Review
-from .Assert import Assert
+from .review_assert import Assert
 
 class TestReviewFullyEnhancedTest(object):
 
