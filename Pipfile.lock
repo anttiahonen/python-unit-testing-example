@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0a173825c672a6ed23a0aa2a3312d8f252db22e3940b273a539580e3740bd185"
+            "sha256": "da3055df4c7ae8d9e02a1a52601a2b9d04afafaf3eaf3f8e8dc25e933ada7b15"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -35,6 +35,10 @@
             "hashes": [],
             "version": "==18.2.0"
         },
+        "coverage": {
+            "hashes": [],
+            "version": "==4.5.1"
+        },
         "more-itertools": {
             "hashes": [],
             "version": "==4.3.0"
@@ -55,6 +59,10 @@
         "pytest": {
             "hashes": [],
             "version": "==3.8.2"
+        },
+        "pytest-cov": {
+            "hashes": [],
+            "version": "==2.6.0"
         },
         "python-dateutil": {
             "hashes": [],
